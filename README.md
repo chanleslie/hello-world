@@ -1,9 +1,25 @@
-# hello-world
-This is where all my materials for Gene 312 Programming for Biostatiticians will go. 
+===============================
+ABOUT MAFIA
+===============================
+Mafia is a game, a method to communicate, a role assigner. This script allows 
+you to randomly assign roles (Mafia or Innocent) to individuals quickly and 
+efficiently. 
 
-Hello World, 
+==============
+REQUIREMENTS
+==============
 
-I am Leslie, a Masters candidate for the Human Genomic and Genetic Data Analysis Program at Keck Graduate Institute. I'm interested in implementing machine learning applications to find genetic variances within the genome -- this would make all genetic data analysts incredibly happy as they don't have to painfully weave through each base to find the genetic mutations. I am anticipated to graduate in 2020, so please feel free to employ me! 
+You'll need to install two (2) modules before starting: 
+    WebApp2
+    TinyDb 
 
-Best, 
-Leslie C. 
+This script only works for Python 2.7. 
+
+==============================
+INSTALLATION INSTRUCTIONS
+==============================
+
+Once you have everything installed and your script is running on Python 2.7, go to 
+your web browser and type "localhost:3000." You should be able to see the homepage 
+to the MAFIA Server where you'll be able to input players and start the game. 
+
